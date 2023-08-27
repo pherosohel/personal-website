@@ -11,6 +11,13 @@ body{
     float: left;
     margin-left: 5%;
     padding-left: 3%;
+   
+}
+#down{
+    padding-top: 150px;
+}
+#left{
+    padding-left: 40px;
 }
 .first-sec-div img{
     width: 100%;
@@ -22,6 +29,7 @@ body{
 section{
     height: 500px;
     padding-bottom: 100px;
+    padding-top: 50px;
 }
 .link-button{
     text-decoration: none;
@@ -60,11 +68,23 @@ section{
 .center h4{
     font-size: 30px;
 }
-#make{
-    background-image: linear-gradient(150deg, red, tomato);
-    padding: 10px 20px;
-    border-radius: 5px;
-    color: white;
-    padding: auto;
-    border-left: 10px;
+
+footer p{
+    text-align: center;
+    border: 30px 20px;
+    padding-top: 150px;
+}
+.last-1work{
+    text-align: center;
+    padding: 40px 30px;
+    width: 500px;
+    background-image: linear-gradient(200deg, yellow, blue);
+    margin-left: 450px;
+}
+.center last-1work p{
+    font: 25px;
+}
+#big{
+    font: 800;
+    font-size: 40px;
 }
